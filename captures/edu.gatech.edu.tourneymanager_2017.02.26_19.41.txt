@@ -1,0 +1,25 @@
+TASK edu.gatech.edu.tourneymanager id=53
+  ACTIVITY edu.gatech.edu.tourneymanager/edu.gatech.seclass.tourneymanager.MainActivity 4cceb14 pid=2469
+    Local FragmentActivity b386017 State:
+      mCreated=truemResumed=true mStopped=false mReallyStopped=false
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@4b3191e
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@4b3191e
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.DecorView{d1d05ff V.E..... ... 0,0-1080,1920}
+        android.widget.LinearLayout{f696fcc V.E..... ... 0,0-1080,1776}
+          android.view.ViewStub{3bcf215 G.E..... ... 0,0-0,0 #10203ef android:id/action_mode_bar_stub}
+          android.widget.FrameLayout{a73a92a V.E..... ... 0,72-1080,1776}
+            android.support.v7.widget.ActionBarOverlayLayout{146031b V.E..... ... 0,0-1080,1704 #7f0d0062 app:id/decor_content_parent}
+              android.support.v7.widget.ContentFrameLayout{1a3bcb8 V.E..... ... 0,168-1080,1704 #1020002 android:id/content}
+                android.widget.RelativeLayout{4879a91 V.E..... ... 0,0-1080,1536 #7f0d0073 app:id/activity_main}
+                  android.support.v7.widget.AppCompatTextView{bfb2df6 V.ED.... ... 48,48-273,105}
+              android.support.v7.widget.ActionBarContainer{437b5f7 V.ED.... ... 0,0-1080,168 #7f0d0063 app:id/action_bar_container}
+                android.support.v7.widget.Toolbar{933ec64 V.E..... ... 0,0-1080,168 #7f0d0064 app:id/action_bar}
+                  android.support.v7.widget.AppCompatTextView{67a4ecd V.ED.... ... 48,43-498,124}
+                  android.support.v7.widget.ActionMenuView{5a43382 V.E..... ... 1080,0-1080,168}
+                android.support.v7.widget.ActionBarContextView{727ba93 G.E..... ... 0,0-0,0 #7f0d0065 app:id/action_context_bar}
+        android.view.View{7756ad0 V.ED.... ... 0,1776-1080,1920 #1020030 android:id/navigationBarBackground}
+        android.view.View{6a0ac9 V.ED.... ... 0,0-1080,72 #102002f android:id/statusBarBackground}
